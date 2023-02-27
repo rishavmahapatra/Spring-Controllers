@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>comstest</groupId>
-	<artifactId>spring Controller</artifactId>
+	<artifactId>springd</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springd</name>
 	<description>Demo project for Spring Boot</description>
